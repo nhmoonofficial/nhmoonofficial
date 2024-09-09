@@ -1,6 +1,7 @@
 ![I am Shopify Web Developer](https://media.licdn.com/dms/image/v2/D5616AQFqm12akimtSQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1709489984712?e=2147483647&v=beta&t=MaEUIlj5x9ed6-gxhGWL5KhunfJITPf61SLcZY5GWq4)
 
-### Hi there 👋, my name is Nazmul Moon
+### Hi there 👋, 
+My name is <b> Nazmul Moon </b>
 #### I am a Shopify Web Developer
 
 
