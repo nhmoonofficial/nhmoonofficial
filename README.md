@@ -4,7 +4,7 @@
 #### I am a Shopify Web Developer
 
 
-I’m a Dedicated and multi-talented Shopify expert specializing in e-commerce, Dropshipping and Email marketing services since 2019. I've been passionate about creating exceptional e-commerce experiences and designing email templates.
+Specializing in e-commerce, Dropshipping and Email marketing services since 2019. I've been passionate about creating exceptional e-commerce experiences and designing email templates.
 
 Skills: LIQUID / WEB API / JSON /  NEXT JS / REACT JS / JS / CSS / HTML 
 
