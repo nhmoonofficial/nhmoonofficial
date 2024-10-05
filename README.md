@@ -50,9 +50,6 @@ I am specializing in e-commerce, Dropshipping, and Email marketing services sinc
 
 <br/>
 
-<br/>
-<hr/>
-<br/>
 
 ## Github Stats -
 
