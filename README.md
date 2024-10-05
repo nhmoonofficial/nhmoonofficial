@@ -12,7 +12,7 @@ Skills: LIQUID / WEB API / JSON /  NEXT JS / REACT JS / JS / CSS / HTML
 
 
 
-- 🔭 I’m currently working on [E-commerized BD] (https://www.ecommerized.com.bd/)
+- 🔭 I’m currently working on [E-commerized BD](https://www.ecommerized.com.bd/)
 - 🌱 I’m currently learning JavaScript
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/nhmoon313)
 - 👯 I’m looking to collaborate on GitHub 
