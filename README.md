@@ -16,7 +16,7 @@ Skills: LIQUID / WEB API / JSON /  NEXT JS / REACT JS / JS / CSS / HTML
 - 🌱 I’m currently learning JavaScript
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/nhmoon313)
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Shopify Development 
+- 💬 Ask me about Shopify E-commerce  
 - 📫 How to reach me: +880 1722218672 ( WhatsApp ) 
 - 📄 All About Me:[https://nazmulm.com/](https://nazmulm.com/)
 
