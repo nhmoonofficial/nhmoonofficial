@@ -7,7 +7,7 @@ My name is <b> Nazmul Moon </b>
 
 Specializing in e-commerce, Dropshipping and Email marketing services since 2019. I've been passionate about creating exceptional e-commerce experiences and designing email templates.
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=nhmoonofficial&color=red)
 
 Skills: LIQUID / WEB API / JSON /  NEXT JS / REACT JS / JS / CSS / HTML 
 
