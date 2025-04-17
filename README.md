@@ -11,13 +11,13 @@ I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce busi
 
 
 
-- 🔭 I’m currently working on [E-commerized BD](https://www.ecommerized.com.bd/)
+- 🔭 I’m currently working on [E-commerized](https://www.ecommerized.com)
 - 🌱 I’m currently learning JavaScript
 - 👨‍💻 All of my projects are available at [Behance](https://www.behance.net/nhmoon313)
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Shopify E-commerce  
-- 📫 How to reach me: +880 1722218672 ( WhatsApp ) 
-- 📄 All About Me:[https://nazmulm.com/](https://nazmulm.com/)
+- 📫 How to reach me: +880 1992340654 ( WhatsApp ) 
+- 📄 All About Me:[https://nazmulm.com/](https://nazmulmoon.com/)
 
 <h3 align="left">Connect with me:</h3>
 
