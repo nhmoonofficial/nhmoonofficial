@@ -3,8 +3,7 @@
 My name is <b> Nazmul Moon </b>
 #### I am a Shopify Web Developer
 
-
-I am specializing in e-commerce, Dropshipping, and Email marketing services since 2019. I've been passionate about creating exceptional e-commerce experiences and designing email templates.
+I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce business development. With over 5 years of experience in Shopify store design and development, optimization, and growth strategies, I have successfully completed over 250+ projects for 170+ satisfied clients worldwide. My expertise areas in building high-converting, scalable, and fully optimized Shopify E-commerce web stores that drive sales and enhance brand credibility.
 
 ![Profile views](https://komarev.com/ghpvc/?username=nhmoonofficial&color=red)
 
