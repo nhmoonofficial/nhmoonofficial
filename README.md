@@ -16,7 +16,7 @@ I’m a Certified Shopify E-commerce Specialist, specializing in e-commerce busi
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Shopify E-commerce  
 - 📫 How to reach me: +880 1992340654 ( WhatsApp ) 
-- 📄 All About Me:[https://nazmulm.com/](https://nazmulmoon.com/)
+- 📄 All About Me:[https://nazmulmoon.com/](https://nazmulmoon.com/)
 
 <h3 align="left">Connect with me:</h3>
 
